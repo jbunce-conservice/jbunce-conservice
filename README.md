@@ -1,1 +1,1 @@
-Conservice Toolkit - v2.0.0
+Conservice Toolkit - v3.0.0
